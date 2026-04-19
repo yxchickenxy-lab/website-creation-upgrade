@@ -1,0 +1,7 @@
+# GitHub Pages configuration
+
+theme: minima
+
+# Settings specific to your site
+name: My Website
+description: This is a sample website hosted on GitHub Pages
